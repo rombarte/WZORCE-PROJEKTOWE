@@ -8,7 +8,7 @@ Wzorce projektowe w wielu językach programowania
 2. [Łańcuch odpowiedzialności](CHAIN/source.cpp)
 
 ### Programy w PHP
-1. Singleton
+1. [Strategia](STRATEGY/source.php)
 
 ## Licencja
 Wszystkie pliki w tym repozytorium udostępniam na licencji MIT. Więcej informacji oraz odnośnik do treści licencji znajdziesz na stronie [Wikipedii](http://pl.wikipedia.org/wiki/Licencja_X11).
